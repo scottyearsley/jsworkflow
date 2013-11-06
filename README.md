@@ -1,4 +1,4 @@
 jsworkflow
 ==========
 
-JavaScript based workflow designer
+JavaScript based workflow designer by Scott Yearsley (Proteros)
